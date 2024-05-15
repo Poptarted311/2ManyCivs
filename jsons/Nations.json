@@ -29,10 +29,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,128,0],
-		"unique": [ : "Provides a [temple] in your first [4] cities for free",
-			"[faith] cost of purchasing items in cities [-15]%"
-
-		],
+		"unique": ["Provides a [temple] in your first [4] cities for free",
+			"[faith] cost of purchasing items in cities [-15]%"],
 		"cities": ["Xy'amm, Zuky's."]
 	}
 ]
